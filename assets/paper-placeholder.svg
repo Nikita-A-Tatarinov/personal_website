@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Paper placeholder image">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eef3ee"/>
+      <stop offset="100%" stop-color="#f7eadc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#bg)"/>
+  <rect x="120" y="120" width="960" height="660" rx="32" fill="#ffffff" opacity="0.55"/>
+  <path d="M200 660h800" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" opacity="0.35"/>
+  <path d="M220 350h400M220 420h520M220 490h340" stroke="#164e3f" stroke-width="20" stroke-linecap="round" opacity="0.45"/>
+  <text x="50%" y="26%" text-anchor="middle" fill="#26443b" font-family="Space Grotesk, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="3">PAPER IMAGE</text>
+  <text x="50%" y="34%" text-anchor="middle" fill="#26443b" font-family="Space Grotesk, Arial, sans-serif" font-size="26">replace with a figure, cover image, or thumbnail</text>
+</svg>
