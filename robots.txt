@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/Nikita-A-Tatarinov/personal_website/sitemap.xml
+Sitemap: https://nikita-a-tatarinov.github.io/personal_website/sitemap.xml
